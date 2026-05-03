@@ -14,7 +14,6 @@ I am a student from Universitas Amikom Yogyakarta specializing in Network Engine
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yakaHan&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=yakaHan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yakaHan/yakaHan/output/pacman-contribution-graph-dark.svg">
